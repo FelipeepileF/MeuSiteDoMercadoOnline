@@ -14,5 +14,56 @@
     background:transparent;
 }
 #Button1{
-    border-radius: 0px; border: 1px solid black; margin: 20px 0 20px 0; color: black;
+    border-radius: 0px;
+    border: 1px solid black;
+    margin: 20px 0 20px 0;
+    color: black;
 }
+#Button2{
+    border-radius: 0px;
+    border: 1px solid black;
+    margin: 20px 0 20px 0;
+    color: black;
+}
+.lema{
+    font-size:22px;
+    font-family:FreeMono;
+    text-align:center;
+}
+#melhor{
+    color:blue;
+}
+#preço{
+    color:red;
+}
+#parte1{
+     margin: 50px 0 0 0;
+     padding-right: 60px;
+}
+#parte2{
+    padding-left:40px;
+}
+#BarraPesquisa{
+    border-radius: 20px;
+    border: 2px solid black;
+    margin: 60px 0 60px 0;
+    padding-left: 40px;
+}
+#BarraEmail{
+    border-radius: 0px;
+    border: 1px solid black;
+    margin: 20px 0 20px 0;
+    color: black; 
+}
+#BarraSenha{
+    border-radius: 0px;
+    border: 1px solid black;
+    margin: 40px 0 40px 0;
+    color: black; 
+}
+#BarraEntar{
+    font-size: 13px;
+    color: #33ccff;
+    margin: 20px 50px 0 0;
+}
+
