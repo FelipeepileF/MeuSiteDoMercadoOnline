@@ -122,10 +122,28 @@
 #OfertasSemana{
     color:red;
     margin-top: 30px;
+    padding-bottom:45px;
+    margin-left:170px;
 }
 .produto1{
     text-align: center;
+    padding-top:20px;
 }
 #product1{
-    color:#66ffff;
+    color:#0099ff;
+    
+}
+#product2{
+    color: #BD363B;
+}
+.product1{
+    padding-left: 90px;
+    font-size: 20px;
+}
+#kg1{
+   color: #BD363B;
+   padding-left: 140px;
+}
+#AdicionarCarrinho1{
+    padding-left: 20px;
 }
