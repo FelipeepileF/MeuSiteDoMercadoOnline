@@ -67,7 +67,7 @@
     margin: 20px 50px 0 0;
 }
 #Menu{
-    background:#E22939;
+    background:#BD363B;;
 }
 .EscritaMenu{
     font-size: 20px;
@@ -120,7 +120,7 @@
     padding-left: 0 !important;
 }
 #OfertasSemana{
-    color:red;
+    color:#BD363B;;
     margin-top: 30px;
     padding-bottom:45px;
     margin-left:170px;
@@ -146,4 +146,12 @@
 }
 #AdicionarCarrinho1{
     padding-left: 20px;
+}
+#vermais1{
+    padding-top: 40px;
+}
+#hr{
+    color:#BD363B;;
+    background-color: #BD363B;;
+    height:2px;
 }
